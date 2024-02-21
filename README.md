@@ -6,7 +6,7 @@ This project uses SQL to analyze the dataset of an online music store. The goal 
 
 ## Schema Diagram
 
-![Schema Diagram](![image](https://github.com/Mallepulasaikireeti/MUSIC_STORE_ANALYSIS-MYSQL-/assets/152272858/7a3d20f8-42e1-4b50-847a-775f8acf58bf))
+![Schema Diagram](![image](https://github.com/Mallepulasaikireeti/MUSIC_STORE_ANALYSIS-MYSQL-/blob/main/schema_diagram.png)
 
 ## Database and Tools
 
