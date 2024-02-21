@@ -6,7 +6,7 @@ This project uses SQL to analyze the dataset of an online music store. The goal 
 
 ## Schema Diagram
 
-![Schema Diagram](https://github.com/santhipuramvinaykumar/Vrinda-store-analysis-MYSQL-/blob/main/schema_diagram.png)
+![Schema Diagram](https://github.com/Mallepulasaikireeti/MUSIC_STORE_ANALYSIS-MYSQL-/blob/main/schema_diagram.png)
 
 
 ## Database and Tools
